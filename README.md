@@ -9,10 +9,10 @@
 
 ## 🧠 Technical Skills
 
-**Languages:** Java, JavaScript, Swift, Python, HTML/CSS, Racket  
-**Frameworks & Libraries:** React, Node.js, Express, Three.js, GSAP  
-**Tools:** VS Code, GitHub, Jupyter Notebook, Blender  
-**Databases & APIs:** AstraDB, OpenAI API, RESTful APIs  
+**Languages:** Java, C++, JavaScript, Swift, Python, HTML/CSS, Racket  
+**Frameworks & Libraries:** React, Node.js, Express, Three.js, GSAP, Scikit-learn 
+**Tools:** VS Code, GitHub, Jupyter, Blender  
+**Databases & APIs:** AstraDB, MySQL, OpenAI API, RESTful APIs  
 
 ---
 
