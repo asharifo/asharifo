@@ -3,7 +3,7 @@
 🎓 **Computer Science student at the University of British Columbia (UBC)**  
 💡 Passionate about **AI, software engineering, and interactive systems**  
 📫 **Email:** asharifo@student.ubc.ca  
-🌐 **GitHub:** [asharifo](https://github.com/asharifo)
+🌐 **LeetCode:** https://leetcode.com/u/asharifov/
 
 ---
 
