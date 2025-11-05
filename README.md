@@ -73,7 +73,7 @@ GPA: **91.3 / 100** — *Dean’s Scholar*
 - 🌍 [UNDP DisasterBot Project](https://github.com/asharifo/disasterbot)  
 - 🕹️ [3D Portfolio Website](https://github.com/asharifo/portfolio-3d)  
 - 📘 [Sports Booking System](https://github.com/asharifo/sports-booking)
-- 📈 [Credit Card Default Prediction Analysis] (https://github.com/asharifo/cs330-hw5)
+- 📈 [Credit Card Default Prediction Analysis](https://github.com/asharifo/cs330-hw5)
 
 ---
 
