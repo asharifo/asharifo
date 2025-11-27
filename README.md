@@ -54,7 +54,7 @@
 
 ### 🏫 Sports Facility Booking App — *Jan 2024*
 - Developed a **Java Swing** desktop app for scheduling student and teacher bookings across facilities.  
-- Persisted data in **JSON**, validated with **JUnit tests** for booking conflict detection.  
+- Persisted data with **mySQL**, validated with **JUnit tests** for booking conflict detection.  
 - Integrated **air quality and heat index APIs** for automated alerts on unsafe conditions.
 
 ---
