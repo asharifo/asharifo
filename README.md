@@ -25,7 +25,7 @@
 - Parsed and embedded documents using **LangChain, Puppeteer**, and **AstraDB vector database** for semantic retrieval.  
 - Developed **Express API endpoints** for vector similarity search, prompt engineering, and ChatGPT streaming responses.  
 - Designed a **modular React UI** integrating **GSAP GPU animations** for scalable and high-performance interactions.
-- Hosted on Render: (https://disasterbot.onrender.com)
+- Hosted on Render: https://disasterbot.onrender.com
 
 ---
 
@@ -71,7 +71,8 @@ GPA: **91.3 / 100** — *Dean’s Scholar*
 ## 📊 GitHub Highlights
 
 - 🔗 [AI Basketball Assistant](https://github.com/asharifo/ai-basketball-assistant)  
-- 🌍 [UNDP DisasterBot Project]((https://github.com/asharifo/disasterbot-backend)(https://github.com/asharifo/disasterbot-frontend))
+- 🌍 [UNDP DisasterBot Project Frontend](https://github.com/asharifo/disasterbot-frontend)
+- 🌍 [UNDP DisasterBot Project Backend](https://github.com/asharifo/disasterbot-backend)
 - 🕹️ [3D Portfolio Website](https://github.com/asharifo/portfolio-3d)  
 - 📘 [Sports Booking System](https://github.com/asharifo/sports-booking)
 - 📈 [Credit Card Default Prediction Analysis](https://github.com/asharifo/cs330-hw5)
