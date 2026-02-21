@@ -40,22 +40,22 @@ Passionate about the intersection of **AI and software engineering**
 
 ## Projects
 
-### **[AI Basketball Shot Analysis](https://github.com/asharifo/ai-basketball-assistant) (iOS, Swift)** — July 2025
-
-- Engineered a real-time computer vision pipeline using AVFoundation and Vision-based pose estimation with custom YOLO models to detect players, ball trajectories, and rim interactions during live gameplay.  
-- Implemented a trajectory-based shot classification system leveraging spatial-temporal keypoints and linear regression to accurately distinguish shot attempts and made baskets.  
-- Designed a normalized SwiftData schema to persist player statistics, session metadata, and shot history, integrating SwiftCharts for long-term performance visualization and analytics.  
-- Optimized on-device inference using concurrent DispatchQueues, frame throttling, and controlled Vision request batching to maintain UI responsiveness under sustained video processing loads.  
-
----
-
-### **[UBC TeamFinder](https://github.com/asharifo/TeamFinder) (Distributed Microservices Platform)** — Jan 2025 – Present
+### **[UBC TeamFinder](https://github.com/asharifo/TeamFinder) (Distributed Microservices Platform)** — Feb 2026 – Present
 
 - Architected and containerized a distributed microservices system using Docker Compose, deploying isolated PostgreSQL databases per service to power a scalable student study-group matching platform.  
 - Designed an event-driven architecture with Apache Kafka to decouple services, enabling asynchronous cross-service workflows for enrollment, profile updates, and recommendations.  
 - Built a low-latency real-time messaging subsystem using WebSockets, leveraging Redis for distributed presence tracking, connection state management, and atomic unread counters.  
 - Implemented secure authentication and authorization using Auth0 JWT verification at the gateway layer, enforcing role-based access and service-level permissions.  
 - Integrated an Nginx reverse proxy with structured logging (Vector), Loki storage, and Grafana dashboards to enable observability, traffic routing, and production-grade monitoring.  
+
+---
+
+### **[AI Basketball Shot Analysis](https://github.com/asharifo/ai-basketball-assistant) (iOS, Swift)** — July 2025
+
+- Engineered a real-time computer vision pipeline using AVFoundation and Vision-based pose estimation with custom YOLO models to detect players, ball trajectories, and rim interactions during live gameplay.  
+- Implemented a trajectory-based shot classification system leveraging spatial-temporal keypoints and linear regression to accurately distinguish shot attempts and made baskets.  
+- Designed a normalized SwiftData schema to persist player statistics, session metadata, and shot history, integrating SwiftCharts for long-term performance visualization and analytics.  
+- Optimized on-device inference using concurrent DispatchQueues, frame throttling, and controlled Vision request batching to maintain UI responsiveness under sustained video processing loads.  
 
 ---
 
